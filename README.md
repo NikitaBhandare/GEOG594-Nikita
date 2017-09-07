@@ -1,4 +1,4 @@
-# README FILE FOR GEOG 594
+# README FOR GEOG 594
 
 **Nikita Bhandare**
 
