@@ -2,7 +2,7 @@
 
 **Nikita Bhandare**
 
-[GEOG -594](https://drive.google/drive/folders/0B-sRkICKj5CUb2xPWkpuYlZzOHc.com)
+[GEOG -594](http://map.sdsu.edu/bigdata/)
 
 **Big Data :**
 
